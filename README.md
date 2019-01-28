@@ -5,6 +5,8 @@ one paragraph about the community goals, ideas, etc.
 
 ## Projects
 
+one paragraph about our projects
+
 [Browse Projects](https://github.com/orgs/non-binary-trees/teams/projects)
 
 ## Repositories
