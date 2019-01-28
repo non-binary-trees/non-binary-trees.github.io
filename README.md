@@ -1,5 +1,3 @@
-# Non-Binary Trees
-
 one paragraph about the community goals, ideas, etc.
 
 ## Projects
