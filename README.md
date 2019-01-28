@@ -1,4 +1,4 @@
-![build](https://api.travis-ci.org/non-binary-trees/non-binary-trees.github.io.svg?branch=master)
+![build](https://api.travis-ci.org/non-binary-trees/non-binary-trees.github.io.svg?branch=gh-pages)
 
 The Non-Binary Trees community is an open collective of game designers initially formed from the mathsquad discord server.
 
