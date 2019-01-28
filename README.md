@@ -22,4 +22,4 @@ one paragraph what are teams
 
 ## Questions
 
-Check out the discussions for getting started [here](https://github.com/orgs/non-binary-trees/teams/start-here).
+Check out the discussions for getting started [here](https://github.com/orgs/non-binary-trees/teams/forest-rangers).
