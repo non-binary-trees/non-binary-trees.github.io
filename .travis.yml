@@ -10,7 +10,6 @@ script: jekyll build && htmlproofer ./_site
 branches:
   only:
   - gh-pages     # test the gh-pages branch
-  - /.*/ # test every branch 
 
 env:
   global:
