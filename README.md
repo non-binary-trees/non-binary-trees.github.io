@@ -18,7 +18,7 @@ one paragraph what are teams
 
 **links**
 * [browse teams](https://github.com/orgs/non-binary-trees/teams/projects/teams)
-* [request new team](https://github.com/non-binary-trees/start-here/issues/new?assignees=&labels=&template=new-team-request.md&title=New+Team+Request)
+* [request new team](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=new-team-request.md&title=New+Team+Request)
 
 ## Questions
 
