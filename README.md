@@ -1,5 +1,8 @@
 one paragraph about the community goals, ideas, etc.
 
+[join community](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=i-want-to-join-the-nbt-community.md&title=I+want+to+join+the+NBT+Community+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)
+
+
 ## Projects
 
 [Browse Projects](https://github.com/orgs/non-binary-trees/teams/projects)
