@@ -7,7 +7,7 @@ one paragraph about the community goals, ideas, etc.
 
 ## Projects
 
-A project is any design project you want to work on. It consists of one or more [repositories](#repositories) and proably one or more [teams](#team). You repositories hold all the assets, data and, documents for your project as well as the documentation. The team keeps track of various discussion threads about the project.
+A project is any design project you want to work on. It consists of one or more [repositories](#repositories) and proably one or more [teams](#team). You repositories hold all files and documentation. Your teams keep track of discussion about the project.
 
 [Browse Projects](https://github.com/orgs/non-binary-trees/teams/the-forest)
 
