@@ -17,4 +17,4 @@ A project is any design project you want to work on. It consists of one or more 
 
 ## Questions
 
-Check out the discussions for getting started [here](https://github.com/orgs/non-binary-trees/teams/forest-rangers).
+Check out the discussions for getting started [here](https://github.com/orgs/non-binary-trees/teams/forest-rangers). If you have a question but don't see an answer, please ask it. Someone else is probably wondering the same thing.
