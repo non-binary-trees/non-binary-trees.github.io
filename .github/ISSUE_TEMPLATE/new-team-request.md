@@ -11,7 +11,7 @@ assignees: ''
 *team-name-here*
 
 ### What is the name of your team's primary repository?
-mathsquad/*repo-name-here*
+non-binary-trees/*repo-name-here*
 
 ### What is your team's goal?
 *A short description of your team goals*
