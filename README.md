@@ -1,6 +1,6 @@
-one paragraph about the community goals, ideas, etc.
+> WIP there is a bunch of missing content but the important links should work
 
-> WIP note: click below to join
+one paragraph about the community goals, ideas, etc.
 
 [Join Community](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=i-want-to-join-the-nbt-community.md&title=I+want+to+join+the+NBT+Community+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)
 
