@@ -1,8 +1,6 @@
-> WIP there is a bunch of missing content but the important links should work
-
 The NBT community is an open collective of game designers formed from the mathsquad community. 
 
-[Join Community](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=i-want-to-join-the-nbt-community.md&title=I+want+to+join+the+NBT+Community+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)
+If you would like to work on your own project with us or just have a better look around, [Join the Community](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=i-want-to-join-the-nbt-community.md&title=I+want+to+join+the+NBT+Community+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)
 
 ## Projects
 
