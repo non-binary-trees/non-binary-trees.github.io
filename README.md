@@ -1,6 +1,6 @@
 one paragraph about the community goals, ideas, etc.
 
-[join community](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=i-want-to-join-the-nbt-community.md&title=I+want+to+join+the+NBT+Community+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)
+[Join Jommunity](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=i-want-to-join-the-nbt-community.md&title=I+want+to+join+the+NBT+Community+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)
 
 
 ## Projects
@@ -13,17 +13,16 @@ one paragraph about our projects
 
 one paragraph what are repositories
 
-**links:**
-* [browse repositories](https://github.com/non-binary-trees)
-* [new repository](https://github.com/organizations/non-binary-trees/repositories/new)
+* [Browse Repositories](https://github.com/non-binary-trees)
+* [New Repository](https://github.com/organizations/non-binary-trees/repositories/new)
 
 ## Teams
 
 one paragraph what are teams
 
 **links**
-* [browse teams](https://github.com/orgs/non-binary-trees/teams/projects/teams)
-* [request new team](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=new-team-request.md&title=New+Team+Request)
+* [Browse Teams](https://github.com/orgs/non-binary-trees/teams/projects/teams)
+* [Request New Team](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=new-team-request.md&title=New+Team+Request)
 
 ## Questions
 
