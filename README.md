@@ -20,7 +20,6 @@ one paragraph what are repositories
 
 one paragraph what are teams
 
-**links**
 * [Browse Teams](https://github.com/orgs/non-binary-trees/teams/projects/teams)
 * [Request New Team](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=new-team-request.md&title=New+Team+Request)
 
