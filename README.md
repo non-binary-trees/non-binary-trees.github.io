@@ -7,7 +7,7 @@ one paragraph about the community goals, ideas, etc.
 
 one paragraph about our projects
 
-[Browse Projects](https://github.com/orgs/non-binary-trees/teams/projects)
+[Browse Projects](https://github.com/orgs/non-binary-trees/teams/the-forest)
 
 ## Repositories
 
@@ -20,7 +20,7 @@ one paragraph what are repositories
 
 one paragraph what are teams
 
-* [Browse Teams](https://github.com/orgs/non-binary-trees/teams/projects/teams)
+* [Browse Teams](https://github.com/orgs/non-binary-trees/teams/the-forest/teams)
 * [Request New Team](https://github.com/non-binary-trees/non-binary-trees.github.io/issues/new?assignees=&labels=&template=new-team-request.md&title=New+Team+Request)
 
 ## Questions
