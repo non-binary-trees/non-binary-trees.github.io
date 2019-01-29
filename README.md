@@ -6,7 +6,7 @@ If you would like to work on your own project with us or just have a better look
 
 ## Projects
 
-A project is any design project you want to work on. It consists of one or more [repositories](https://help.github.com/articles/github-glossary/#repository) and probably one or more [teams](https://help.github.com/articles/github-glossary/#teams). You repositories hold all files and documentation. Your teams keep track of discussion about the project.
+A project is any design project you want to work on. It consists of one or more [repositories](https://help.github.com/articles/github-glossary/#repository) and probably one or more [teams](https://help.github.com/articles/github-glossary/#team). You repositories hold all files and documentation. Your teams keep track of discussion about the project.
 
 **Links:**
 * [Browse Projects](https://github.com/orgs/non-binary-trees/teams/the-forest/teams)
